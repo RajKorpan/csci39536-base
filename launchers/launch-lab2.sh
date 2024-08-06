@@ -1,7 +1,7 @@
 #!/bin/bash
 
-HW_PACKAGE="homework8"
-HW_LAUNCH="hw8.launch"
+LAB_PACKAGE="learning_ros"
+LAB_LAUNCH="lab2.launch"
 
 source /environment.sh
 
@@ -16,7 +16,7 @@ dt-launchfile-init
 # NOTE: Use `dt-exec COMMAND` to run the main process (blocking process)
 
 # launching app
-roslaunch $HW_PACKAGE $HW_LAUNCH
+roslaunch $LAB_PACKAGE $LAB_LAUNCH
 
 # ----------------------------------------------------------------------------
 # YOUR CODE ABOVE THIS LINE

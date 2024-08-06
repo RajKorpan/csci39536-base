@@ -1,7 +1,7 @@
 #!/bin/bash
 
-HW_PACKAGE="homework5"
-HW_LAUNCH="hw5.launch"
+LAB_PACKAGE="lab7"
+LAB_LAUNCH="lab7.launch"
 
 source /environment.sh
 
@@ -16,7 +16,7 @@ dt-launchfile-init
 # NOTE: Use `dt-exec COMMAND` to run the main process (blocking process)
 
 # launching app
-roslaunch $HW_PACKAGE $HW_LAUNCH
+roslaunch $LAB_PACKAGE $LAB_LAUNCH
 
 # ----------------------------------------------------------------------------
 # YOUR CODE ABOVE THIS LINE
