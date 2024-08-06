@@ -1,8 +1,8 @@
-# Template: eece5560-base
+# Template: csci39536-base
 
 This template provides a boilerplate repository
 for developing ROS-based software in Duckietown.
-Use it for UML EECE 5560
+Use it for Hunter CSCI 39536
 
 ## How to use it
 
