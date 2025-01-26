@@ -1,8 +1,7 @@
-# Template: csci39536-base
+# Template
 
 This template provides a boilerplate repository
-for developing ROS-based software in Duckietown.
-Use it for Hunter CSCI 39536
+for developing ROS-based software.
 
 ## How to use it
 
